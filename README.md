@@ -12,3 +12,5 @@ Next the user must select the checkboxes to include what type of characters they
     - special letters
 
 After the boxes are selected the users can then hit the generate button and their custom password will pop out. If no boxes are selected, then the user will get an alert 'Please check (atleast 1) type of character to use' and no password will be generated. 
+
+*when pressed generate for second time it does not clear old password, but adds new password into finalPass. Needs fixing*
